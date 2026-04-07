@@ -1,7 +1,12 @@
 aid: packaging-corporation-of-america
-url: https://raw.githubusercontent.com/api-evangelist/packaging-corporation-of-america/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/packaging-corporation-of-america/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.packaging-corporation-of-america.com
+description: >-
+  Packaging Corporation of America is the third largest producer of containerboard
+  and corrugated packaging products in the United States, supplying packaging to food,
+  beverage, and industrial customers.
