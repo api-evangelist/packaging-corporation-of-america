@@ -5,7 +5,7 @@ description: >-
   containerboard and corrugated packaging products in the United States,
   supplying packaging to food, beverage, and industrial customers. No public
   APIs have been documented at this time.
-type: Contract
+kind: contract
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
